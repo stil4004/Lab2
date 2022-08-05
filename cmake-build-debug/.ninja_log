@@ -1,0 +1,7 @@
+# ninja log v5
+3	869	6814029086620524	CMakeFiles/untitled11.dir/main.cpp.obj	4ea669884e6a32f3
+1	374	6814033500223911	build.ninja	bde50f3ec8d021c9
+870	1253	6814029090436673	untitled11.exe	fe015f24e3770351
+23	576	6809196037849281	CMakeFiles/untitled11.dir/DynamicArray.cpp.obj	dfcbf11dac10d43f
+31	868	6814029086610767	CMakeFiles/untitled11.dir/LinkedList.cpp.obj	e637c93f79fa928f
+38	863	6814029086571718	CMakeFiles/untitled11.dir/LinkedListSequence.cpp.obj	dc9caac3780abdb8
